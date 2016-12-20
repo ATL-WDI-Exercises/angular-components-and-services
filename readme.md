@@ -14,7 +14,7 @@
   <h1>Salaries for Software Engineers</h1>
   <div class="container">
     <simple-table></simple-table>
-    <pie-chart></pie-chart>
+    <bar-chart></bar-chart>
   </div>
 </section>
 ```
@@ -93,7 +93,7 @@ app.component('simpleTable', {
   }
 });
 
-app.component('pieChart', {
+app.component('barChart', {
   template: `
 <div class="my-chart">
   <h2>Chart</h2>
