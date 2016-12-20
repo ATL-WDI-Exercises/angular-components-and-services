@@ -1,0 +1,22 @@
+{
+  "name": "angular-components-and-services",
+  "authors": [
+    "Dr. Mike Hopper <drmikeh@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0",
+    "chart.js": "^2.4.0",
+    "angular-chart.js": "^1.1.1"
+  }
+}
